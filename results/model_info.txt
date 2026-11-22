@@ -1,0 +1,7 @@
+Model Size & Inference Time Report
+========================================
+Model Size: 8.77 MB
+Inference Time (avg): 18.59 ms
+Inference Time (std): 1.87 ms
+Device: CPU
+Number of Classes: 15

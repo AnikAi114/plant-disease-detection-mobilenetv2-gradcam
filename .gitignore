@@ -1,0 +1,20 @@
+# Local datasets and checkpoints
+/data/
+/data_raw/
+/weights/
+*.pth
+*.pt
+*.ckpt
+
+# Environments, caches and IDE
+.venv/
+venv/
+.idea/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local generated results
+results/predicted/
+*.log
+.DS_Store

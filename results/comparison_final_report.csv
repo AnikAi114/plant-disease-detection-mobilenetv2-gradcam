@@ -1,0 +1,4 @@
+Model,Accuracy (%),Size (MB),Inference Time (ms)
+EfficientNet-B0,99.64,15.64,24.76
+MobileNetV2 (Ours),99.55,8.77,18.59
+ResNet50,99.19,90.09,46.46

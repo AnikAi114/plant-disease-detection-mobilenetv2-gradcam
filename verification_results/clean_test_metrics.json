@@ -1,0 +1,10 @@
+{
+    "checkpoint": "best_9948.pth",
+    "test_images": 3100,
+    "excluded_exact_duplicate_images": 4,
+    "accuracy": 0.9954838709677419,
+    "weighted_precision": 0.9955042251254173,
+    "weighted_recall": 0.9954838709677419,
+    "weighted_f1": 0.9954791071414218,
+    "note": "Exact-duplicate-filtered test evaluation"
+}

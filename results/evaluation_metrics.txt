@@ -1,0 +1,31 @@
+==================================================
+MODEL EVALUATION METRICS
+==================================================
+
+Accuracy:  99.5490%
+Precision: 99.5510%
+Recall:    99.5490%
+F1-Score:  99.5485%
+
+Classification Report:
+                                             precision    recall  f1-score   support
+
+              Pepper__bell___Bacterial_spot     1.0000    1.0000    1.0000       150
+                     Pepper__bell___healthy     1.0000    0.9955    0.9977       222
+                      Potato___Early_blight     1.0000    1.0000    1.0000       151
+                       Potato___Late_blight     1.0000    1.0000    1.0000       151
+                           Potato___healthy     1.0000    1.0000    1.0000        23
+                      Tomato_Bacterial_spot     0.9877    1.0000    0.9938       320
+                        Tomato_Early_blight     0.9868    0.9934    0.9901       151
+                         Tomato_Late_blight     0.9930    0.9895    0.9913       287
+                           Tomato_Leaf_Mold     1.0000    0.9930    0.9965       143
+                  Tomato_Septoria_leaf_spot     1.0000    1.0000    1.0000       266
+Tomato_Spider_mites_Two_spotted_spider_mite     1.0000    0.9881    0.9940       252
+                        Tomato__Target_Spot     0.9904    0.9763    0.9833       211
+      Tomato__Tomato_YellowLeaf__Curl_Virus     0.9979    1.0000    0.9990       482
+                Tomato__Tomato_mosaic_virus     0.9825    1.0000    0.9912        56
+                             Tomato_healthy     0.9917    1.0000    0.9958       239
+
+                                   accuracy                         0.9955      3104
+                                  macro avg     0.9953    0.9957    0.9955      3104
+                               weighted avg     0.9955    0.9955    0.9955      3104
